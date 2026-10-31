@@ -1,0 +1,36 @@
+{
+  "gameId": "1b54aa6e",
+  "scenarioId": "S1-06",
+  "createdUtc": "2026-10-31T17:57:16.7923305+00:00",
+  "status": "Active",
+  "engineSha": "05a8819db0c571b71614fafbcb84ace4ebb9cc11",
+  "seats": [
+    {
+      "seat": "brandenburg",
+      "kind": "human",
+      "tokenHash": "4b7b0f5db566712d50d812e001c8d041228f730b66937d145e5b78a663d649a4",
+      "name": "Przemek"
+    },
+    {
+      "seat": "austria",
+      "kind": "bot",
+      "tokenHash": null,
+      "name": null
+    },
+    {
+      "seat": "denmark",
+      "kind": "bot",
+      "tokenHash": null,
+      "name": null
+    }
+  ],
+  "note": null,
+  "undo": false,
+  "sequence": 25,
+  "toAct": [
+    "brandenburg"
+  ],
+  "lastActivityUtc": "2026-10-31T17:57:21.4170927+00:00",
+  "lastHumanSeat": null,
+  "lastHumanUtc": null
+}
