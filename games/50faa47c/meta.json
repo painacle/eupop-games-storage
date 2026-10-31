@@ -1,0 +1,36 @@
+{
+  "gameId": "50faa47c",
+  "scenarioId": "S1-00",
+  "createdUtc": "2026-10-31T17:58:05.3644426+00:00",
+  "status": "Active",
+  "engineSha": "05a8819db0c571b71614fafbcb84ace4ebb9cc11",
+  "seats": [
+    {
+      "seat": "france",
+      "kind": "human",
+      "tokenHash": "f71e07764b3aafc16f69421172713bea123796685fb055cd23c2612e2d01d21e",
+      "name": "Piotrek"
+    },
+    {
+      "seat": "castile",
+      "kind": "bot",
+      "tokenHash": null,
+      "name": null
+    },
+    {
+      "seat": "england",
+      "kind": "bot",
+      "tokenHash": null,
+      "name": null
+    }
+  ],
+  "note": null,
+  "undo": false,
+  "sequence": 12,
+  "toAct": [
+    "france"
+  ],
+  "lastActivityUtc": "2026-10-31T17:58:05.4546777+00:00",
+  "lastHumanSeat": null,
+  "lastHumanUtc": null
+}
