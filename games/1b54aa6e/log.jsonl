@@ -5,3 +5,5 @@
 {"seq":4,"eventCount":42,"eventsHash":"873b6612559d0af5","command":{"kind":"answer_decision","decisionId":"a1r1.P1C_PayToKeepActionCards.brandenburg.s37","optionId":"0","reason":null,"player":"brandenburg","expectedSequence":38}}
 {"seq":5,"eventCount":46,"eventsHash":"910241e000a87379","command":{"kind":"answer_decision","decisionId":"a1r1.P1C_PayToKeepActionCards.brandenburg.s41","optionId":"0","reason":null,"player":"brandenburg","expectedSequence":42}}
 {"seq":6,"eventCount":50,"eventsHash":"9bc7b0fe97861c99","command":{"kind":"answer_decision","decisionId":"a1r1.P1C_PayToKeepActionCards.brandenburg.s45","optionId":"0","reason":null,"player":"brandenburg","expectedSequence":46}}
+{"seq":7,"eventCount":54,"eventsHash":"b26958bd21f213a6","command":{"kind":"answer_decision","decisionId":"a1r1.P1C_PayToKeepActionCards.brandenburg.s49","optionId":"0","reason":null,"player":"brandenburg","expectedSequence":50}}
+{"seq":8,"eventCount":63,"eventsHash":"375ff91d589cfb6c","command":{"kind":"answer_decision","decisionId":"a1r1.P1C_PayToKeepActionCards.brandenburg","optionId":"0","reason":null,"player":"brandenburg","expectedSequence":54}}
